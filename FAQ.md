@@ -38,14 +38,14 @@ SwitchDex charges a .2% taker fee. There are no other platform fees. Other funct
 
 SwitchDex also offers users the ability to pay a one time flat fee amount to remove the platform fee forever. The amount of this one time fee increases $10 monthly, and will top out at $100 in December 2019. The one time fee schedule is as follows;
 
-May 2019- **$30**
-June 2019 - **$40**
-July 2019 - **$50**
-August 2019 - **$60**
-September 2019 - **$70**
-October 2019 - **$80**
-November 2019 - **$90**
-December 2019 and forever after - **$100**
+May 2019- **$30**  
+June 2019 - **$40**  
+July 2019 - **$50**  
+August 2019 - **$60**  
+September 2019 - **$70**  
+October 2019 - **$80**  
+November 2019 - **$90**  
+December 2019 and forever after - **$100**  
 
 To whitelist an address with an altcoin, go to Switch.ag. On the deposit side click the token you’d like to pay with. On the receive side click SwitchDex whitelist. Fill out the form and make payment. That’s it!
 
@@ -55,8 +55,8 @@ You can check if an address is whitelisted by going to whitelist.switchdex.ag (p
 
 100% of all fees collected from trading and whitelist fees are airdropped to ESH & SDEX holders. 
 
-**50% is airdropped to ESH holders.**
-**50% is airdropped to SDEX holders.**
+**50% is airdropped to ESH holders.**  
+**50% is airdropped to SDEX holders.**  
 
 ## How do I get a token listed on SwitchDex? 
 
